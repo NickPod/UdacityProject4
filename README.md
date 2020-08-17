@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<NickPod>](https://circleci.com/gh/NickPod/UdacityProject4.svg?style=svg)](<https://circleci.com/gh/NickPod/UdacityProject4>)
 
 ## Project Overview
 
