@@ -1,3 +1,18 @@
+##### make_prediction.sh output:
+
+podgorn@LAPTOP-0DF96E7T:~/UdacityProject4$ ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
+
+
+
+##### run_kubernetes.sh output:
+
 NAME             READY   STATUS    RESTARTS   AGE
 udacityproject   1/1     Running   1          2m1s
 Forwarding from 127.0.0.1:8000 -> 80
